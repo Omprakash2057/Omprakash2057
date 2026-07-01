@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="380">
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps;Exploring+AI+%26+Deep+Learning;Odoo+Hackathon+2025+Finalist+(Top+8%2F1900%2B);Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
@@ -109,6 +113,10 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6A11CB&height=4&width=1000" width="100%" />
 
 ### 📫 Connect with Me
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="320">
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
