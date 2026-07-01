@@ -12,7 +12,7 @@
   <a href="tel:+919441373329"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6A11CB&height=4&width=1000" width="100%" />
 
 ### 🚀 About Me
 
@@ -23,7 +23,7 @@
 - 🎯 Passionate about building full-stack web apps and AI-driven solutions to real-world problems
 - 📫 Reach me at **mallepulaomprakashgoud@gmail.com**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6A11CB&height=4&width=1000" width="100%" />
 
 ### 🛠️ Tech Stack
 
@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6A11CB&height=4&width=1000" width="100%" />
 
 ### 🔥 Featured Projects
 
@@ -86,14 +86,14 @@
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6A11CB&height=4&width=1000" width="100%" />
 
 ### 🏆 Achievements
 
 - 🥈 **Top 8 / 1900+ teams** — Odoo Hackathon 2025 (built an AI-based real-time assessment system with adaptive feedback in 48 hours)
 - 🎓 **Semester Topper** — SR University, 2024
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6A11CB&height=4&width=1000" width="100%" />
 
 ### 📊 GitHub Stats
 
@@ -106,7 +106,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=default" height="165" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6A11CB&height=4&width=1000" width="100%" />
 
 ### 📫 Connect with Me
 
@@ -116,3 +116,5 @@
 </p>
 
 <p align="center"><i>⭐️ From <a href="https://github.com/YOUR-GITHUB-USERNAME">YOUR-GITHUB-USERNAME</a> — thanks for stopping by!</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6A11CB&height=100&section=footer" width="100%" />
